@@ -1,6 +1,6 @@
-# Flutter News App - Homescreen
+# Flutter News App 
 
-Welcome to the Flutter News App's Homescreen! This beautifully crafted Flutter project brings you the latest news headlines from a variety of sources, all at your fingertips. Powered by the NewsAPI from newsapi.com, this app elegantly displays news articles with images, titles, sources, and publication dates. Let's dive into the features and how to get started!
+Welcome to the Flutter News App! This beautifully crafted Flutter project brings you the latest news headlines from a variety of sources, all at your fingertips. Powered by the NewsAPI from newsapi.com, this app elegantly displays news articles with images, titles, sources, and publication dates. Let's dive into the features and how to get started!
 
 ## Features
 
