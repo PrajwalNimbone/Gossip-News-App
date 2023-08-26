@@ -9,10 +9,6 @@ Welcome to the Flutter News App! This beautifully crafted Flutter project brings
 - **Category Filtering**: Empowers users to filter news articles by categories like Sports, Science, Tech, General, and Business.
 - **Smooth Interactions**: Offers smooth horizontal scrolling for an intuitive and immersive experience.
 
-## Screenshots
-
-![App Preview](screenshots/app_preview.png)
-
 ## Prerequisites
 
 Before you embark on your journey with the Flutter News App, make sure you have the following:
