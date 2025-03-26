@@ -35,30 +35,14 @@ Before you embark on your journey with the Flutter News App, make sure you have 
    ```bash
    flutter run
    ```
+   ** App Demo
 
-## The Creative Touch - Using NewsAPI
+![til](./newApp.gif)
 
-Fueling this app's news content is the incredible NewsAPI from newsapi.com. With a touch of creativity, the app's Homescreen pulls in news data in a meaningful and structured way, creating a delightful user experience. The app communicates with the NewsAPI to fetch articles based on user preferences. Each news article's metadata, including the image, headline, source, and publication date, is harmoniously presented on the screen.
+   ** Api for News
+    Get free api from here :  [https://newsapi.org/](https://newsapi.org/)
 
-## Dependencies
 
-This project utilizes the following Flutter packages:
 
-- `flutter_spinkit`: Provides loading spinners.
-- `google_fonts`: Allows using Google Fonts in the app.
-- `cached_network_image`: Caches and displays network images.
-- `intl`: Provides date formatting capabilities.
 
-## How to Use
-
-1. Launch the app on your device or emulator.
-2. The app's homescreen will appear with a list of news headlines.
-3. Use the filter icon (three dots) on the app bar to select a news category: Sport, Science, Tech, General, or Business.
-4. The news headlines will be updated based on your selected category.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or want to enhance the app, feel free to submit pull requests.
-
-Built with ❤️ using Flutter.
 
