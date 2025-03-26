@@ -37,10 +37,11 @@ Before you embark on your journey with the Flutter News App, make sure you have 
    ```
    ** App Demo
 
-    ![til](./newApp.gif)
+   ** ![til](./newApp.gif)
 
    ** Api for News
     Get free api from here :  [https://newsapi.org/](https://newsapi.org/)
+   
 
 
 
